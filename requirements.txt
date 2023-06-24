@@ -1,0 +1,12 @@
+mediapipe
+os
+opencv-python
+seaborn
+joblib
+scikitlearn
+prettytable
+matplotlib
+json
+numpy
+math
+pandas
